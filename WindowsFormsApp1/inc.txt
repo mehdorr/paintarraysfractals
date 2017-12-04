@@ -12,4 +12,4 @@ do 3 pkt:
 
 - wyswietlanie 2d arraya jako bitmapy (uzycie GDI)
 - array dynamiczny (wybor rozmiaru)
-- rysowanie fraktali (snowflake, mandelbrot)
+- rysowanie fraktali (snowflake, fern)
