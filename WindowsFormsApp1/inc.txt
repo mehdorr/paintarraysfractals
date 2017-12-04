@@ -1,0 +1,15 @@
+﻿Aplikacja pokazująca umiejętność operowanie pętlami i dwuwymiarowymi tablicami
+
+do 5 pkt:
+-zawiera canvas lub inną powierznię na której da się rysować
+-rysuje dowolne dwa fraktale z możliwością edycji parametrów
+
+do 3 pkt:
+-zawiera dwuwymiarową tablicę
+-zawiera pętle do obsługi dwuwymiarowych tablic (generowania, przetwarzania)
+
+==================================================================================
+
+- wyswietlanie 2d arraya jako bitmapy (uzycie GDI)
+- array dynamiczny (wybor rozmiaru)
+- rysowanie fraktali (snowflake, mandelbrot)
